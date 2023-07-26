@@ -2,7 +2,7 @@
 
 You can find this calculator project live at:
 
-https://iarobinson.github.io/jsCalculator2020/
+https://anilkumarmono.github.io/jsCalculator2020-master/
 
 To learn more, visit [UsefulProgrammer.org](https://usefulprogrammer.org/)
 
